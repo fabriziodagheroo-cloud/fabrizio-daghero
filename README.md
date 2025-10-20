@@ -18,7 +18,7 @@ Me interesa crear sitios web dinámicos y con buen diseño.
 ---
 ## Cómo contactarme
 Email: fabriziodagheroo@gmail.com
-LinkedIn: https://github.com/fabriziodagheroo-cloud/fabrizio-daghero
+LinkedIn: https://www.linkedin.com/in/fabrizio-daghero-0b44b138a/
 Portafolio: [tu-sitio-web-si-tenés]
 ---
 ## ✨ Datos curiosos sobre mí
